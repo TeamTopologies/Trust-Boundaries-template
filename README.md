@@ -28,4 +28,4 @@ Groups that are slightly smaller than the trust boundary are likely to have good
 | .               |                     |                        |                        |
 | .               |                     |                        |                        |
 
-> Group trust boundaries ("Dunbar numbers"): 5-8, 15, 50, 150, 500, 1500
+> Group trust boundaries ("Dunbar numbers"): 5-8, 15, 50, **150**, 500, 1500
